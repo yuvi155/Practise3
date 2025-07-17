@@ -1,7 +1,7 @@
 # Practise3
 
+Hello
+
 This is my project
 
-hello
-
-hi i am aarush 
+Hi i am aarush 
