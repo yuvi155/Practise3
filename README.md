@@ -2,6 +2,6 @@
 
 This is my project
 
-hloo hii
+hello
 
 hi i am aarush 
